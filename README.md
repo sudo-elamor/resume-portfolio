@@ -13,7 +13,7 @@ Currently exploring **scalable design**, **quant research**, and **AI-driven tra
 ---
 
 ## 📄 Resume
-👉 [**View Resume (PDF)**](./resume/Dibyendu_Mandal_Resume.pdf)  
+👉 [**View Resume (PDF)**](.Resume_DibyenduMandal.pdf)  
 (Updated: November 2025)
 
 Source code: [`Dibyendu_Mandal_Resume.tex`](./resume/Dibyendu_Mandal_Resume.tex)
